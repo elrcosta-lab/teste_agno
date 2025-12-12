@@ -79,7 +79,7 @@ python main.py
 Para executar o servidor web com o agente:
 
 ```bash
-python server.py
+uv run fastapi dev .\llm_local.py
 ```
 
 ## Contribuição
